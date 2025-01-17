@@ -1,2 +1,2 @@
 # TreasureIsland-iOS-FoundationKit
-TreasureIsland-iOS-FoundationKit
+GuruCompany's TreasureIsland(Webtoon Service) SDK for iOS
