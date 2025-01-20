@@ -42,7 +42,7 @@ public protocol NotificationContract {
 }
 public struct BehaviorDataWebContent {
   public static func retrieveContentUrl() -> Swift.String
-  public static func retrieveContentDomain() -> Swift.String
+  public static func retrieveCookieDomain() -> Swift.String
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class TikitSpeakHandler : ObjectiveC.NSObject, TreasureIslandFoundationKit.SpeakContract {
   public func speak(speakEntity: TreasureIslandFoundationKit.SpeakEntity)

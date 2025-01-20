@@ -842,8 +842,8 @@
           },
           {
             "kind": "Function",
-            "name": "retrieveContentDomain",
-            "printedName": "retrieveContentDomain()",
+            "name": "retrieveCookieDomain",
+            "printedName": "retrieveCookieDomain()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -853,8 +853,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:27TreasureIslandFoundationKit22BehaviorDataWebContentV08retrieveH6DomainSSyFZ",
-            "mangledName": "$s27TreasureIslandFoundationKit22BehaviorDataWebContentV08retrieveH6DomainSSyFZ",
+            "usr": "s:27TreasureIslandFoundationKit22BehaviorDataWebContentV20retrieveCookieDomainSSyFZ",
+            "mangledName": "$s27TreasureIslandFoundationKit22BehaviorDataWebContentV20retrieveCookieDomainSSyFZ",
             "moduleName": "TreasureIslandFoundationKit",
             "static": true,
             "declAttributes": [
@@ -7974,21 +7974,21 @@
     {
       "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIsland.iOS\/TreasureIsland.iOS.Source\/Platforms\/TreasureIslandFoundationKit\/TreasureIslandFoundationKit\/FoundationKitProperty.swift",
       "kind": "StringLiteral",
-      "offset": 315,
-      "length": 32,
-      "value": "\"https:\/\/%@.treasurecomics.com\/\""
+      "offset": 314,
+      "length": 23,
+      "value": "\"%@.treasurecomics.com\""
     },
     {
       "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIsland.iOS\/TreasureIsland.iOS.Source\/Platforms\/TreasureIslandFoundationKit\/TreasureIslandFoundationKit\/FoundationKitProperty.swift",
       "kind": "StringLiteral",
-      "offset": 1217,
+      "offset": 1207,
       "length": 13,
       "value": "\"treasureKit\""
     },
     {
       "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIsland.iOS\/TreasureIsland.iOS.Source\/Platforms\/TreasureIslandFoundationKit\/TreasureIslandFoundationKit\/FoundationKitProperty.swift",
       "kind": "BooleanLiteral",
-      "offset": 2517,
+      "offset": 2507,
       "length": 5,
       "value": "false"
     },
