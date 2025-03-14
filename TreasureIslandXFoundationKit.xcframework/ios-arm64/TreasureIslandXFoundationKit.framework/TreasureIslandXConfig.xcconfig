@@ -7,5 +7,5 @@
 //  CalVer
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
-VersionName = 25.3.1
-VersionCode = 22
+VersionName = 25.3.2
+VersionCode = 23
