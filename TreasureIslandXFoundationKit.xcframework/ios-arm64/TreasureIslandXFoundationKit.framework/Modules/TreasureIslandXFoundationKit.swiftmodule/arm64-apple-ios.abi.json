@@ -4590,8 +4590,8 @@
           },
           {
             "kind": "Function",
-            "name": "recommendationContent",
-            "printedName": "recommendationContent(signKey:completionHandler:)",
+            "name": "recommendationContentModel",
+            "printedName": "recommendationContentModel(signKey:completionHandler:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4640,8 +4640,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:28TreasureIslandXFoundationKit19BehaviorDataContentV014recommendationG07signKey17completionHandlerySS_yAA0eF6ResultOySayAA014RecommendationgF0VGGctFZ",
-            "mangledName": "$s28TreasureIslandXFoundationKit19BehaviorDataContentV014recommendationG07signKey17completionHandlerySS_yAA0eF6ResultOySayAA014RecommendationgF0VGGctFZ",
+            "usr": "s:28TreasureIslandXFoundationKit19BehaviorDataContentV014recommendationG5Model7signKey17completionHandlerySS_yAA0eF6ResultOySayAA014RecommendationgF0VGGctFZ",
+            "mangledName": "$s28TreasureIslandXFoundationKit19BehaviorDataContentV014recommendationG5Model7signKey17completionHandlerySS_yAA0eF6ResultOySayAA014RecommendationgF0VGGctFZ",
             "moduleName": "TreasureIslandXFoundationKit",
             "static": true,
             "declAttributes": [
@@ -4651,8 +4651,61 @@
           },
           {
             "kind": "Function",
-            "name": "recentContent",
-            "printedName": "recentContent(signKey:completionHandler:)",
+            "name": "recommendationContentText",
+            "printedName": "recommendationContentText(signKey:completionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TreasureIslandXFoundationKit.BehaviorDataResult<Swift.String>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BehaviorDataResult",
+                    "printedName": "TreasureIslandXFoundationKit.BehaviorDataResult<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:28TreasureIslandXFoundationKit18BehaviorDataResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:28TreasureIslandXFoundationKit19BehaviorDataContentV014recommendationG4Text7signKey17completionHandlerySS_yAA0eF6ResultOySSGctFZ",
+            "mangledName": "$s28TreasureIslandXFoundationKit19BehaviorDataContentV014recommendationG4Text7signKey17completionHandlerySS_yAA0eF6ResultOySSGctFZ",
+            "moduleName": "TreasureIslandXFoundationKit",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "recentContentModel",
+            "printedName": "recentContentModel(signKey:completionHandler:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4701,8 +4754,61 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:28TreasureIslandXFoundationKit19BehaviorDataContentV06recentG07signKey17completionHandlerySS_yAA0eF6ResultOySayAA06RecentgF0VGGctFZ",
-            "mangledName": "$s28TreasureIslandXFoundationKit19BehaviorDataContentV06recentG07signKey17completionHandlerySS_yAA0eF6ResultOySayAA06RecentgF0VGGctFZ",
+            "usr": "s:28TreasureIslandXFoundationKit19BehaviorDataContentV06recentG5Model7signKey17completionHandlerySS_yAA0eF6ResultOySayAA06RecentgF0VGGctFZ",
+            "mangledName": "$s28TreasureIslandXFoundationKit19BehaviorDataContentV06recentG5Model7signKey17completionHandlerySS_yAA0eF6ResultOySayAA06RecentgF0VGGctFZ",
+            "moduleName": "TreasureIslandXFoundationKit",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "recentContentText",
+            "printedName": "recentContentText(signKey:completionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TreasureIslandXFoundationKit.BehaviorDataResult<Swift.String>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BehaviorDataResult",
+                    "printedName": "TreasureIslandXFoundationKit.BehaviorDataResult<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:28TreasureIslandXFoundationKit18BehaviorDataResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:28TreasureIslandXFoundationKit19BehaviorDataContentV06recentG4Text7signKey17completionHandlerySS_yAA0eF6ResultOySSGctFZ",
+            "mangledName": "$s28TreasureIslandXFoundationKit19BehaviorDataContentV06recentG4Text7signKey17completionHandlerySS_yAA0eF6ResultOySSGctFZ",
             "moduleName": "TreasureIslandXFoundationKit",
             "static": true,
             "declAttributes": [
@@ -9515,6 +9621,16 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TreasureIslandXFoundationKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "SpeakResult",
         "printedName": "SpeakResult",
@@ -10098,6 +10214,13 @@
       "offset": 861,
       "length": 8,
       "value": "\"취소\""
+    },
+    {
+      "filePath": "\/Users\/sunwoo\/Develop\/GuruCompany\/Project.TreasureIslandX.iOS\/TreasureIslandX.iOS.Source\/Platforms\/TreasureIslandXFoundationKit\/TreasureIslandXFoundationKit\/Component\/Data\/Behavior\/Response\/ResPlainText.swift",
+      "kind": "StringLiteral",
+      "offset": 210,
+      "length": 2,
+      "value": "\"\""
     }
   ]
 }

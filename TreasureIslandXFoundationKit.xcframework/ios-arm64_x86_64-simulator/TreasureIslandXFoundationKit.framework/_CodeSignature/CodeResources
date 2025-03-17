@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zXAS5ufWVkiym8tPA/26cBqllJs=
+		2ZLVzU5g7KVRVnqcLMBRWw1LbZc=
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		56pr9bjYOEMlcc+6vrxOsv8zguk=
+		60ysASLsx7AUIj6CwJAfTZsQ2io=
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UQsnD99lwXDBWBKWQqAJfokUJVs=
+		TjZvvlUEBNh9dJNFJiYYEFySdOo=
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UQsnD99lwXDBWBKWQqAJfokUJVs=
+		TjZvvlUEBNh9dJNFJiYYEFySdOo=
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CFZIBMPNP6Pay82nHy9D+VOLpUM=
+		npwEJ0Tavy4MAXU5qJ3mz+2mJB0=
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		56pr9bjYOEMlcc+6vrxOsv8zguk=
+		60ysASLsx7AUIj6CwJAfTZsQ2io=
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		s233xuhC6+UscEdp3PuFb8iaQvk=
+		knwg/a8vyariwyscU9gM6i2ZoZ8=
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		s233xuhC6+UscEdp3PuFb8iaQvk=
+		knwg/a8vyariwyscU9gM6i2ZoZ8=
 		</data>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		j6SAfFEG8VsQPNy/Z54I4J0DPvc=
+		BMTWhpEpUyo54Nl1HQiWtiXkgqk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>TreasureIslandXConfig.xcconfig</key>
 		<data>
-		7iAtKqXNyihx314ZcWS7zjERX5I=
+		OOhc+h45agKbhelg2OyZTHPy2dY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -74,14 +74,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6EpeUuJmKwEyt5C79jJwNZhsITS+C8qSBhdcHx+7d28=
+			f+KsPQtZpRgpV6ocZoe7hV1CPZIh5xmCM6aAGa/+jfc=
 			</data>
 		</dict>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UJKvQQM23Z6LY0l2wVkQJxsEy07IOlI13pu2f+zJWUY=
+			iDt/dQf9FTlbFHUzp44wwjC67Eifciq9NbCSqIrrdpQ=
 			</data>
 		</dict>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -95,28 +95,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UJKvQQM23Z6LY0l2wVkQJxsEy07IOlI13pu2f+zJWUY=
+			iDt/dQf9FTlbFHUzp44wwjC67Eifciq9NbCSqIrrdpQ=
 			</data>
 		</dict>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H76v6YSUAo1YfRKxAD71/65uVFezhsQ/1JVYVZ1Itzo=
+			adCdj8AaYm5QVvskh9TuMPXgouv5Sunmq8M40wvMSzc=
 			</data>
 		</dict>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6EpeUuJmKwEyt5C79jJwNZhsITS+C8qSBhdcHx+7d28=
+			f+KsPQtZpRgpV6ocZoe7hV1CPZIh5xmCM6aAGa/+jfc=
 			</data>
 		</dict>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F/tZUCXnaJAQ1v1n5OVThZ9iw78JqSJfef2TxllNS6s=
+			bB1/JALHgSfUKJVepPNLITgI4nKPf45SaGxC0NTBhEE=
 			</data>
 		</dict>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -130,14 +130,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F/tZUCXnaJAQ1v1n5OVThZ9iw78JqSJfef2TxllNS6s=
+			bB1/JALHgSfUKJVepPNLITgI4nKPf45SaGxC0NTBhEE=
 			</data>
 		</dict>
 		<key>Modules/TreasureIslandXFoundationKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			afSJDCAfNx75akpYLrMmUPrndWiUrkSbM/mD3T/rat8=
+			f81MElCEFn3Ri3ht4ZcgsxzCXKtsfYzpCZ8i7um05ls=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -151,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tQWd03L1O/AHougQkzYoJ2CDz93+BXA9kkwnTC2F7Ys=
+			SAXsx/Gc4Xkm9S4pMFwL+ohLyA8A+o6vKXlRYTCzIWI=
 			</data>
 		</dict>
 	</dict>
